@@ -4,6 +4,7 @@
 #include <vector>
 #include <iterator>
 #include "mProcess.h"
+#include <iostream>
 
 using namespace std;
 
