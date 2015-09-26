@@ -1,5 +1,5 @@
 #pragma once
-#include <cstdlib>
+#include <cstdlib> //ВОт СТДЛИБ!Й!!!!1!1!1!!!!
 #include <stack>
 #include <vector>
 #include <iterator>
